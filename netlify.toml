@@ -3,6 +3,6 @@
     command = "npm run netlify:build"
 
 [template.environment]
-    VONAGE_KEY= "Vonage Video API Key"
-    VONAGE_SECRET= "Vonage Video API Secret"
-    FAUNA_SECRET= "FaunaDB Secret"
+    VONAGE_KEY= "46905824"
+    VONAGE_SECRET= "08a8a197eda9591cf12e930b835dba0e0d6d72ee"
+    FAUNA_SECRET= "fnAD0yvUb9ACEtF1IpcuGh0ijqS0mPLHurU42I9Z"
