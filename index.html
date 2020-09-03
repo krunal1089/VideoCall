@@ -32,6 +32,7 @@
         }).then(res => {
           return res.json();
         }).then(res => {
+          console.log(res);
           const { apiKey, sessionId, token } = res;
 
           const session = OT.initSession(apiKey, sessionId);
